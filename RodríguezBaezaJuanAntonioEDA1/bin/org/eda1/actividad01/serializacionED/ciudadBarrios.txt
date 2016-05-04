@@ -1,0 +1,8 @@
+Almeria 36.50 -2.28 8 Regiones Nueva_Andalucia Cruz_Caravaca Araceli Villablanca Barrio_Alto Paseo_Almeria Zapillo
+Granada 37.11 -3.35 6 Albaicin Sacromonte Los_Pajaritos Chana Cartuja Zaidin
+Malaga 36.43 -4.25 5 La_Goleta El_Palo La_Trinidad La_Malagueta La_Merced
+Jaen 37.46 -3.47 4 La_Gloria San_Ildefonso Juderia Las_Fuentezuelas
+Cordoba 37.53 -4.47 4 Del_Carmen Arenal San_Francisco Fuensanta
+Sevilla 37.23 -5.59 5 Triana Pineda San_Pablo Nervion Macarena
+Cadiz 36.32 -6.18 3 San_Juan Mentidero Santa_Maria
+Huelva 37.16 -6.57 3 Reina_Victoria Moret Principe_Felipe

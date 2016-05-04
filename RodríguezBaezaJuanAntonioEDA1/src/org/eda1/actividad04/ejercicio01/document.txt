@@ -1,0 +1,3 @@
+In programming, a data structure is a way of organizing a set of data elements in order to
+easier its handling. A data item is the minimum information that we have on a system.
+A data structure defines the organization and interaction of these data and a set of operations that can be performed on them.

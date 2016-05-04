@@ -1,0 +1,3 @@
+113.213.12.1 ==> {epi.ual.es=1, epicuro.ual.es=2} 
+192.146.1.233 ==> {pascal.ual.es=2, poisson.ual.es=1} 
+192.146.1.234 ==> {leo.ual.es=2, pedro.ual.es=2, voltaire.ual.es=3} 
